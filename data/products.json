@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "T-Shirt Brand A",
+    "price": 120000,
+    "image": "/images/tshirt.jpeg",
+    "description": "Kaos katun lembut dengan logo Brand A.",
+    "stock": 0
+  },
+  {
+    "id": 2,
+    "name": "Jacket Brand A",
+    "price": 350000,
+    "image": "/images/jacket.jpeg",
+    "description": "Jaket nyaman untuk cuaca dingin.",
+    "stock": 0
+  },
+  {
+    "id": 3,
+    "name": "Sneakers Brand A",
+    "price": 480000,
+    "image": "/images/sneakers.jpeg",
+    "description": "Sepatu casual ringan dan stylish.",
+    "stock": 2
+  },
+  {
+    "id": 4,
+    "name": "Pants Brand A",
+    "price": 500000,
+    "image": "/images/pants.jpeg",
+    "description": "Celana training ringan dan dingin.",
+    "stock": 2
+  }
+]
