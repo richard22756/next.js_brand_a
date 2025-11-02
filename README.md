@@ -98,3 +98,4 @@
     | Simulated delay in API                 | Demonstrates race condition clearly    | Slower test execution                                |                                        |
     | ISR caching                            | Performance optimization for SSR pages | Slight delay before updated stock appears                    |                                        |
     | Manual invalidation route              | Developer control of cache lifecycle   | Requires explicit trigger                                  |                                        |
+# next.js_brand_a
